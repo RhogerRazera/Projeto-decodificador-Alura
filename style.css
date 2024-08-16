@@ -70,7 +70,7 @@ body{
     flex-direction: column;
     border: 3px solid var (--cortitulo);
     border-radius: 10px;
-    width: 100%;
+    width: 250px;
     height: 400px;
     margin-right: 3%;
 
